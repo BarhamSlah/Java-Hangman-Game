@@ -47,5 +47,8 @@ void main() {
         System.out.println("The word is " + word);
     }
 
+
+
+
     scanner.close();
 }
